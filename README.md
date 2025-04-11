@@ -1,6 +1,4 @@
-
-![TAILWIND Boilderplate (1280 x 640 px)](https://github.com/user-attachments/assets/75d54721-edfc-40d0-9d31-b02bcf42f0c4)
-
+![TAILWIND Boilerplate (1280 x 640 px)](https://github.com/user-attachments/assets/75d54721-edfc-40d0-9d31-b02bcf42f0c4)
 
 # 🌟 Tailwind Boilerplate
 
@@ -16,29 +14,32 @@ Open your terminal and run the following commands:
 cd '<Project Folder>'
 npm install
 npm run css
+```
 
 ✅ That’s it! Your Tailwind environment is ready to go.
 
-⸻
+---
 
-⚠️ Error Handling
+## ⚠️ Error Handling
 
-If you run into issues — especially after editing the tailwind.config.js file — simply re-run:
+If you run into issues — especially after editing the `tailwind.config.js` file — simply re-run:
 
+```bash
 npm run css
+```
 
 This will rebuild your CSS and get everything back on track.
 
-⸻
+---
 
-🧰 Tech Stack
-• Tailwind CSS v3
-• PostCSS
-• Live CSS rebuilding via npm run css
+## 🧰 Tech Stack
 
-⸻
+- Tailwind CSS v3
+- PostCSS
+- Live CSS rebuilding via `npm run css`
 
-📝 License
+---
+
+## 📝 License
 
 MIT License © 2025
-```
