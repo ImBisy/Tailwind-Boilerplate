@@ -1,3 +1,7 @@
+
+![TAILWIND Boilderplate (1280 x 640 px)](https://github.com/user-attachments/assets/75d54721-edfc-40d0-9d31-b02bcf42f0c4)
+
+
 # 🌟 Tailwind Boilerplate
 
 A minimal, unstyled starter template for **Tailwind CSS v3.0** with predefined file paths and PostCSS setup — perfect for quick web projects, prototyping, or scaling into full applications.
